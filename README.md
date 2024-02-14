@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm YERAY SANTANA CURBELO</h1>
 <h3 align="center">Passionate about full-stack development from Spain</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=battlesoft" alt="battlesoft" /></a> </p>
+<h2>- 🔭 I’m currently working on **ParrotLine (instant messaging)**</h2>
 
-- 🔭 I’m currently working on **ParrotLine (instant messaging)**
+<h2>- 🌱 I’m currently learning **new frameworks and self-studying cybersecurity.**</h2>
 
-- 🌱 I’m currently learning **new frameworks and self-studying cybersecurity.**
+<h2>- 💬 Ask me about **React+Vite**</h2>
 
-- 💬 Ask me about **React+Vite**
+<h2>- 📫 How to reach me **yeraysantanac@gmail.com**</h2>
 
-- 📫 How to reach me **yeraysantanac@gmail.com**
-
-- ⚡ Fun fact **The first website was so simple that it didn't even have cats. 🐱**
+<h2>- ⚡ Fun fact **The first website was so simple that it didn't even have cats. 🐱**</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,4 +22,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=battlesoft&show_icons=true&locale=en&layout=compact" alt="battlesoft" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=battlesoft&" alt="battlesoft" /></p>
