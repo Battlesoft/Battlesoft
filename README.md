@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm YERAY SANTANA CURBELO</h1>
 <h3 align="center">Passionate about full-stack development from Spain</h3>
 
-<h2>- 🔭 I’m currently working on **ParrotLine (instant messaging)**</h2>
+<h4>- 🔭 I’m currently working on **ParrotLine (instant messaging)**</h4>
 
-<h2>- 🌱 I’m currently learning **new frameworks and self-studying cybersecurity.**</h2>
+<h4>- 🌱 I’m currently learning **new frameworks and self-studying cybersecurity.**</h4>
 
-<h2>- 💬 Ask me about **React+Vite**</h2>
+<h4>- 💬 Ask me about **React+Vite**</h4>
 
-<h2>- 📫 How to reach me **yeraysantanac@gmail.com**</h2>
+<h4>- 📫 How to reach me **yeraysantanac@gmail.com**</h4>
 
-<h2>- ⚡ Fun fact **The first website was so simple that it didn't even have cats. 🐱**</h2>
+<h4>- ⚡ Fun fact **The first website was so simple that it didn't even have cats. 🐱**</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
