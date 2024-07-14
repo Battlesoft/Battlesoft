@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YERAY SANTANA CURBELO</h1>
-<h3 align="center">Passionate about full-stack development from Spain</h3>
+<h3 align="center">Passionate about full-stack development and cybersecurity from Spain</h3>
 
-<h4>- 🔭 I’m currently working on **ParrotLine 🗨️🦜 (instant messaging)**</h4>
+<h4>- 🔭 I’m currently working on **New Porfolio 🖤**</h4>
 
 <h4>- 🌱 I’m currently learning **new frameworks and self-studying cybersecurity.**</h4>
 
